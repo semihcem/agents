@@ -1,7 +1,6 @@
 ---
 name: invention-verifier
 description: Prüft die Erfindungs-Kandidaten des invention-scout gegen die Realität — existiert das schon (Produkt/Patent-Recherche)? technisch machbar? wirtschaftlich profitabel? — verwirft Doubletten und Luftschlösser und speichert nur die bestätigten, NEUEN & profitablen Erfindungen in der Datei erfindungen/inventions.md (mit Datum, Score, Quellen). Standard-Skepsis.
-tools: All tools
 color: lime
 ---
 
