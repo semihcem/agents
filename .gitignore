@@ -1,0 +1,3 @@
+# graphify: temporäre/maschinenspezifische Dateien
+graphify-out/.graphify_*
+!graphify-out/.graphify_labels.json
