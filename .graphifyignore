@@ -1,0 +1,6 @@
+# Graphify-eigene Dateien nicht in den Wissensgraphen aufnehmen
+.claude/skills/
+.claude/settings.json
+.claude/CLAUDE.md
+CLAUDE.md
+graphify-out/
